@@ -1,11 +1,19 @@
-SQL ▼
-# Cesty 
-# C00. Nespecifikováno Cesty
-![](../DCIM-examples/cesty_apod-cesta_nespecifikovano.jpg)
+[C00. Nespecifikováno Cesty ] (# cesta_nespecifikovano)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_nespecifikovano.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
 
-# Cesty 
-# C01. brod Cesty
-<img src="../DCIM-examples/eroze-eroze_struzkova-2.jpg" width="100px" />
+
+
+[C01. brod Cesty ] (# cesta_brod)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_brod.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_brod-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_brod-3.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_brod-4.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva: bod
 Druh: Brod
@@ -27,9 +35,14 @@ Komentář
   nezpevněný
   zpevněný štětováním, rovnaným kamenem, betonový, kamenivo zpevněné betonem
   případně specifikujeme další zajímavosti
-# Cesty 
-# C02. cesta Cesty
-![](../DCIM-examples/cesty_apod-cesta.jpg)
+
+[C02. cesta Cesty ] (# cesta)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva bod Bod
 používáme v případě, že chceme zachytit bodově charakter cesty, ale bez zjevné eroze či zahloubení.
@@ -48,9 +61,13 @@ Komentář
     nezpevněná
     zpevněná - štěrk (jemnější frakce), makadam (hrubší frakce), asfaltová (nová, rozpadající se atd.), kolejová (nová, rozpadající se)
     využití - staré cesty např. pro zasakování vody - v projektu se pak navrhnou hrázky a svedení vody z problematického místa (např. z vedle jdoucí cesty atd.)
-# Cesty 
-# C03. cesta stará Cesty
-![](../DCIM-examples/cesty_apod-cesta_stara.jpg)
+[C03. cesta stará Cesty ] (# cesta_stara)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_stara.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_stara-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_stara-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -64,9 +81,13 @@ Dokumentace
 
 Příklad Fotka1
 Síť cest, několik vedle sebe vedoucích, bez eroze, hloubka 3-5 m
-# Cesty 
-# C04. lávka Cesty
-![](../DCIM-examples/cesty_apod-cesta_lavka.jpg)
+[C04. lávka Cesty ] (# cesta_lavka)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_lavka.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_lavka-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_lavka-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod
@@ -93,9 +114,13 @@ Dřevěná, kulatina s deštěním, usazena na rovném povrchu, šířka 0,9 m, 
 
 Obrazek 2:
 Železobetonová lávka, betonové patky, šířka 1,2m, délka 8 m, výška ode dna 0,9 m
-# Cesty 
-# C05. most Cesty
-![](../DCIM-examples/cesty_apod-cesta_most.jpg)
+[C05. most Cesty ] (# cesta_most)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_most.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_most-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_most-Foto_3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod
@@ -115,9 +140,14 @@ Výška mostu ode dna, šířka mostu - důležité pro stanovení kapacity most
         ◦ Rozměry
         ◦ Stav
         ◦ Přejezdnos
-# Cesty 
-# C06. neexistující most Cesty
-![](../DCIM-examples/cesty_apod-cesta_most_neexistujici.jpg)
+
+[C06. neexistující most Cesty ] (# cesta_most_neexistujici)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_most_neexistujici.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod
@@ -128,9 +158,13 @@ Jestliže v mapách je most uveden, ale ve skutečnosti neexistuje. Důležité 
 Dokumentace
 Dokumentujeme stav, zda došlo k celkovému odstranění mostu záměrně nebo se jedná o samovolné zhroucení. Toto dokumentovat je důležité u mostků např v polních tratích, kdy mostky vznikaly během úprav VT v době HTUP. Tyto mostky se nevyužívají a dochází k jejich pozvolné destrukci. Totéž platí i v lesích.
 	
-# Cesty 
-# C07. propustek Cesty
-![](../DCIM-examples/cesty_apod-propustek.jpg)
+[C07. propustek Cesty ] (# propustek)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-propustek.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-propustek-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-propustek-3.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-propustek-4.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-propustek-5.jpg" width="100px" />
+
 
 Vrstva
 cesta - bod, linie
@@ -161,13 +195,22 @@ Na obslužné cestě, beton, 0,3 m, na odvodňovacím příkopu, výtoková stra
 
 Foto 5
 Propustek pod zastavěnou částí, svádí vodu z polí do potoka (z údolnice plus odvodňovací příkop na hranici zástavby a polí), beton, šířka 0,8 m, délka 60 m. V době dokumentace výrazně nepostačoval.
-# Eroze 
-# E00. nespecifikováno Eroze
-![](../DCIM-examples/eroze-eroze_nespec.jpg)
+[E00. nespecifikováno Eroze ] (# eroze_nespec)
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_nespec.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
 
-# Eroze 
-# E01. břehová nátrž Eroze
-![](../DCIM-examples/eroze-brehova_natrz.jpg)
+
+
+[E01. břehová nátrž Eroze ] (# brehova_natrz)
+<img src="../DCIM-examples/DCIM-examples/eroze-brehova_natrz.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-brehova_natrz-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-brehova_natrz-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva 
 bod
@@ -181,9 +224,14 @@ Uvádíme přibližné rozměry, specifikaci kde se nátrž nachází, materiál
 
 Parametry 
 Šířka, délka, hloubka, materiál.
-# Eroze 
-# E02. eroze plošná Eroze
-![](../DCIM-examples/eroze-eroze_plosna.jpg)
+
+[E02. eroze plošná Eroze ] (# eroze_plosna)
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_plosna.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_plosna-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_plosna-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
@@ -198,9 +246,14 @@ Foto: do dáli, aby byl vidět charakter okolní krajiny
 Parametry: 
     Šířka – šířka erozního smyvu v metrech
     Popis – délka eroze v metrech
-# Eroze 
-# E03. sesuv Eroze
-![](../DCIM-examples/eroze-eroze_sesuv.jpg)
+
+[E03. sesuv Eroze ] (# eroze_sesuv)
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_sesuv.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_sesuv-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_sesuv-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
@@ -221,9 +274,14 @@ délka sesuvu  CO JE DELKA SESUVU
 Polygon
 zaměření sesunuteho masivu
 
-# Eroze 
-# E04. eroze stružková Eroze
-![](../DCIM-examples/eroze-eroze_struzkova.jpg)
+
+[E04. eroze stružková Eroze ] (# eroze_struzkova)
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_struzkova.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_struzkova-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_struzkova-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva: bod nebo linie
 
@@ -240,18 +298,27 @@ Parametry:
     Délka – délka erozní rýhy ( ubadime, pokud neuvedme presnou linii)
     Hloubka
     
-# Eroze 
-# E05. výplavový kužel Eroze
-![](../DCIM-examples/eroze-eroze_vyplavovy_kuzel.jpg)
+
+[E05. výplavový kužel Eroze ] (# eroze_vyplavovy_kuzel)
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_vyplavovy_kuzel.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/eroze-eroze_vyplavovy_kuzel-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
 
 Charakteristika
 Jedná se o spodní část vodní stružkové, ale i plošné eroze, čili kde eroze končí a dochází k uložení sneseného materiálu. Do stejné vrstvy zaznamenáme i deponii půdy při větrné erozi.
-# Eroze 
-# E06. mura Eroze
-![](../DCIM-examples/eroze-mura.jpg)
+[E06. mura Eroze ] (# mura)
+<img src="../DCIM-examples/DCIM-examples/eroze-mura.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
@@ -261,9 +328,13 @@ Jedná se o splavení materiálu (zemina, kamení, štěrk, písek) při přesyc
 
 Parametry 
 Šířka, délka, materiál 
-# Eroze 
-# E07. potvrzená trasa bleskové povodně Eroze
-![](../DCIM-examples/eroze-potvrzena_trasa_bleskove_povodne.jpg)
+[E07. potvrzená trasa bleskové povodně Eroze ] (# potvrzena_trasa_bleskove_povodne)
+<img src="../DCIM-examples/DCIM-examples/eroze-potvrzena_trasa_bleskove_povodne.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -273,9 +344,14 @@ Zaznamenáváme místními trasu povodně mimo dobu události. Nutné domapovat 
 
 Dokumentace
 Dokumentujeme trasu, buď do vrstvy linie nebo bodově. Ideálně fotit stejně jako vodní tok, tzn. průběžně s první foto proti směru, druhé foto po směru. Případně do linie foto na počátku, v průběhu a na konci.
-# Jiné 
-# J01. jiné Jiné
-![](../DCIM-examples/ostatni-jine.jpg)
+
+[J01. jiné Jiné ] (# jine)
+<img src="../DCIM-examples/DCIM-examples/ostatni-jine.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-jine-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-jine-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
@@ -294,9 +370,14 @@ Popelnice na strome
 Fotka 2
 Obrosky neco v potoce
 
-# Jiné 
-# J02. lom Jiné
-![](../DCIM-examples/ostatni-lom.jpg)
+
+[J02. lom Jiné ] (# lom)
+<img src="../DCIM-examples/DCIM-examples/ostatni-lom.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, polygon
@@ -310,17 +391,32 @@ Dokumentace
 
 Parametry 
 Hloubka, šířka, délka, materiál 
-# Jiné 
-# J03. manipulační prostor Jiné
-![](../DCIM-examples/ostatni-manipulacni_prostor.jpg)
 
-# Jiné 
-# J05. paseka Jiné
-![](../DCIM-examples/ostatni-paseka.jpg)
+[J03. manipulační prostor Jiné ] (# manipulacni_prostor)
+<img src="../DCIM-examples/DCIM-examples/ostatni-manipulacni_prostor.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
 
-# Jiné 
-# J06. přibližovací linka Jiné
-![](../DCIM-examples/ostatni-priblizovaci_linka.jpg)
+
+
+[J05. paseka Jiné ] (# paseka)
+<img src="../DCIM-examples/DCIM-examples/ostatni-paseka.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[J06. přibližovací linka Jiné ] (# priblizovaci_linka)
+<img src="../DCIM-examples/DCIM-examples/ostatni-priblizovaci_linka.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-priblizovaci_linka-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-priblizovaci_linka-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -335,9 +431,13 @@ Dokumentace
 Dokumentujeme stav, 
 Parametry 
 Šířka, materiál (povrch), stav
-# Jiné 
-# J07. skládka stará zátěž Jiné
-![](../DCIM-examples/ostatni-skladka_stara_zatez.jpg)
+[J07. skládka stará zátěž Jiné ] (# skladka_stara_zatez)
+<img src="../DCIM-examples/DCIM-examples/ostatni-skladka_stara_zatez.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, polygon
@@ -352,9 +452,13 @@ Do vrstvy polygon zanášíme obchůzkou obvodu plochu skládky.
 
 Parametry
 Šířka, materiál (povrch), stav
-# Jiné 
-# J08. strom Jiné
-![](../DCIM-examples/ostatni-strom.jpg)
+[J08. strom Jiné ] (# strom)
+<img src="../DCIM-examples/DCIM-examples/ostatni-strom.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-strom-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-strom-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod
@@ -364,9 +468,13 @@ Celkový pohled na strom, jeho habitus, charakter okolní krajiny. V detailu zac
 
 Parametry 
 Výška, popis (uvést druh a čím je výjimečný)
-# Jiné 
-# J09. strž Jiné
-![](../DCIM-examples/ostatni-strz.jpg)
+[J09. strž Jiné ] (# strz)
+<img src="../DCIM-examples/DCIM-examples/ostatni-strz.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-strz-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/ostatni-strz-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -386,17 +494,31 @@ Jde-li o strž vzniklou v důsledku povodňové události je nutné zaměřit i 
 
 Parametry 
 Hloubka, materiál (uloženého ve dně strže a jeho pevnost), podrost, šířka v koruně, šířka v patě, vodnatost, zaplnění v procentech
-# Jiné 
-# J10. zeď Jiné
-![](../DCIM-examples/ostatni-zed.jpg)
+[J10. zeď Jiné ] (# zed)
+<img src="../DCIM-examples/DCIM-examples/ostatni-zed.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
 
-#  Meliorace, Odvodnění 
-# M00. Odvodnění - nespecifikováno  Melio - Odvod
-![](../DCIM-examples/odvodneni-odvodneni_nespecifikovano.jpg)
 
-#  Meliorace, Odvodnění 
-# M01. odvodňovací strouha  Melio - Odvod
-![](../DCIM-examples/odvodneni-odvodnovaci_strouha.jpg)
+
+[M00. Odvodnění - nespecifikováno  Melio - Odvod ] (# odvodneni_nespecifikovano)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-odvodneni_nespecifikovano.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[M01. odvodňovací strouha  Melio - Odvod ] (# odvodnovaci_strouha)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-odvodnovaci_strouha.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-odvodnovaci_strouha-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-odvodnovaci_strouha-3.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-odvodnovaci_strouha-4.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-odvodnovaci_strouha-5.jpg" width="100px" />
+
 
 Vrstva: bod nebo linie
 
@@ -415,9 +537,14 @@ Parametry:
     Šířka v patě – spodní šířka koryta v patě v metrech
     Šířka v koruně – horní šířka koryta v koruně v metrech
     podrost
-#  Meliorace, Odvodnění 
-# M02. šachta  Melio - Odvod
-![](../DCIM-examples/odvodneni-sachta.jpg)
+
+[M02. šachta  Melio - Odvod ] (# sachta)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-sachta.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-sachta-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-sachta-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva: bod
 
@@ -431,13 +558,23 @@ Parametry:
     Šířka, v geodezii prumer, v geodezii je značka šachta
     Stav
     Zaplnění v procentech
-#  Meliorace, Odvodnění 
-# M03. šachta zasypaná  Melio - Odvod
-![](../DCIM-examples/odvodneni-sachta_zasypana.jpg)
 
-#  Meliorace, Odvodnění 
-# M04. tok upravený otevřený nebo kanalizovaný  Melio - Odvod
-![](../DCIM-examples/odvodneni-tok_upraveny_otevreny_kanalizovany.jpg)
+[M03. šachta zasypaná  Melio - Odvod ] (# sachta_zasypana)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-sachta_zasypana.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[M04. tok upravený otevřený nebo kanalizovaný  Melio - Odvod ] (# tok_upraveny_otevreny_kanalizovany)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-tok_upraveny_otevreny_kanalizovany.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
@@ -462,9 +599,14 @@ Vodnatost, Hloubka (výška hladiny vody ode dna), šířka v patě (šířka dn
         ◦ Hladina vody v korytě
         ◦ Technický stav koryta, zanesení
         ◦ Blízké okolí vodního toku
-#  Meliorace, Odvodnění 
-# M05. tok zatrubněný  Melio - Odvod
-![](../DCIM-examples/odvodneni-tok_zatrubneny.jpg)
+
+[M05. tok zatrubněný  Melio - Odvod ] (# tok_zatrubneny)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-tok_zatrubneny.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-tok_zatrubneny-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -484,9 +626,13 @@ Zaznamenáváme počátek a konec zatrubnění. Spojujeme jednotlivé vpustě ne
 Parametry 
 Vodnatost, materiál, šířka (průměr), výška, hloubka, stav
 Do popisu lze uvést čistotu vody apod. 
-#  Meliorace, Odvodnění 
-# M06. trubka odtok ze šachty  Melio - Odvod
-![](../DCIM-examples/odvodneni-trubka_odtok_ze_sachty.jpg)
+[M06. trubka odtok ze šachty  Melio - Odvod ] (# trubka_odtok_ze_sachty)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_odtok_ze_sachty.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -499,9 +645,13 @@ Středem šachty zaměříme počáteční bod, shlédneme směr vedení hlavní
 Dokumentace
 Parametry 
 vodnatost, materiál, šířka (průměr), stav
-#  Meliorace, Odvodnění 
-# M07. trubka poškozená  Melio - Odvod
-![](../DCIM-examples/odvodneni-trubka_poskozena.jpg)
+[M07. trubka poškozená  Melio - Odvod ] (# trubka_poskozena)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_poskozena.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_poskozena-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_poskozena-Foto_3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Druh: Trubka poškozená
 
@@ -517,9 +667,14 @@ detail a místo s charakterem okolní krajiny
 Parametry:
     Šířka: průměr prasklé trubky v metrech
     Vodnatost
-#  Meliorace, Odvodnění 
-# M08. trubka přítok do šachy  Melio - Odvod
-![](../DCIM-examples/odvodneni-trubka_pritok_do_sachty.jpg)
+
+[M08. trubka přítok do šachy  Melio - Odvod ] (# trubka_pritok_do_sachty)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_pritok_do_sachty.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_pritok_do_sachty-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_pritok_do_sachty-3.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_pritok_do_sachty-4.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -534,9 +689,13 @@ Celkový pohled do šachty.
 
 Parametry 
 vodnatost, materiál, šířka (průměr), stav
-#  Meliorace, Odvodnění 
-# M09. výusť odvodnění  Melio - Odvod
-![](../DCIM-examples/odvodneni-trubka_vyust_odvodneni.jpg)
+[M09. výusť odvodnění  Melio - Odvod ] (# trubka_vyust_odvodneni)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_vyust_odvodneni.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_vyust_odvodneni-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_vyust_odvodneni-3.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/odvodneni-trubka_vyust_odvodneni-4.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva: bod
 
@@ -555,9 +714,14 @@ Parametry:
     Materiál
     Šířka – průměr při kruhovém tvaru
     Stav
-#  Meliorace, Odvodnění 
-# M99. horská vpusť  Melio - Odvod
-![](../DCIM-examples/odvodneni-horska_vpust.jpg)
+
+[M99. horská vpusť  Melio - Odvod ] (# horska_vpust)
+<img src="../DCIM-examples/DCIM-examples/odvodneni-horska_vpust.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod
@@ -571,13 +735,23 @@ Detail zanesení
 
 Parametry 
 Šířka, délka, hloubka, zanesení v procentech, hrubost akumulovaného materiálu (např. Hrubý štěrk, písek, dřevo, atd.)
-# Vodní pr. 
-# V00. Vodní prvky - Nespecifikováno Vodní pr.
-![](../DCIM-examples/vodni_prvky-vodni_prvky-nespecifikovano.jpg)
 
-# Vodní pr. 
-# V01. akumulace balvanů Vodní pr.
-![](../DCIM-examples/vodni_prvky-akumulace_balvanu.jpg)
+[V00. Vodní prvky - Nespecifikováno Vodní pr. ] (# vodni_prvky-nespecifikovano)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-vodni_prvky-nespecifikovano.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[V01. akumulace balvanů Vodní pr. ] (# akumulace_balvanu)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-akumulace_balvanu.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva 
 bod, polygon
@@ -591,9 +765,14 @@ velikost akumulace, uložení vůči toku (v celé šíři koryta, při břehu, 
 
 Parametry
 výška, délka, šířka, materiál - velikost balvanů, poměr frakce - pouze balvany, směs hrubého štěrku a balvanů, dnes pláví a balvanů…
-# Vodní pr. 
-# V02. akumulace sedimentu Vodní pr.
-![](../DCIM-examples/vodni_prvky-akumulace_sedimentu.jpg)
+
+[V02. akumulace sedimentu Vodní pr. ] (# akumulace_sedimentu)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-akumulace_sedimentu.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-akumulace_sedimentu-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva 
 bod, polygon
@@ -608,9 +787,13 @@ K akumulaci sedimentu dochází před nějakou překážkou, ať už technickou 
 
 Parametry
 výška, délka, šířka, materiál - velikost balvanů, poměr frakce - pouze balvany, směs hrubého štěrku a balvanů…
-# Vodní pr. 
-# V03. balvanitý skluz Vodní pr.
-![](../DCIM-examples/vodni_prvky-balvanity_skluz.jpg)
+[V03. balvanitý skluz Vodní pr. ] (# balvanity_skluz)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-balvanity_skluz.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-balvanity_skluz-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva 
 bod
@@ -618,9 +801,14 @@ bod
 Charakteristika
 Jde o příčný objekt na vodním toku, který vyrovnává větší sklon toku. Stejnou funkci mají i prahy, hrázky apod., ale balvanitý skluz se nejvíce podobá přírodním útvarům. Voda klouže po jejich povrchu a z hlediska migrace živočichů je nejméně narušující.
 Setkat se s balvanitým skluzem můžeme jak ve vodních tocích, tak i u vodních ploch, např tůní, kde hrázku nahrazuje tento skluz.
-# Vodní pr. 
-# V04. mokřad Vodní pr.
-![](../DCIM-examples/vodni_prvky-mokrad_mapovany.jpg)
+
+[V04. mokřad Vodní pr. ] (# mokrad_mapovany)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-mokrad_mapovany.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-mokrad_mapovany-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-mokrad_mapovany-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, polygon
@@ -634,9 +822,14 @@ Dokumentujeme charakter mokřadu, výskyt rostlin, charakter okolí, případně
 
 Parametry 
 Vodnatost, podrost (rostliny, živočichy), šířka, délka
-# Vodní pr. 
-# V05. opevnění břehu Vodní pr.
-![](../DCIM-examples/vodni_prvky-opevneni_brehu.jpg)
+
+[V05. opevnění břehu Vodní pr. ] (# opevneni_brehu)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-opevneni_brehu.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -662,9 +855,13 @@ kamenná dlažba s cementovou spárou - vyskládaná do štěrku pouze se zpevno
 Kamenná dlažba do betonu - kameny rovnané na beton se zalitou spárou
 Betonová dlažba
 Betonové a železobetonové desky
-# Vodní pr. 
-# V06. náhon Vodní pr.
-![](../DCIM-examples/vodni_prvky-nahon.jpg)
+[V06. náhon Vodní pr. ] (# nahon)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-nahon.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-nahon-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-nahon-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -682,9 +879,13 @@ stejně jako u vodních toků průběžně dokumentovat stav a charakter od poč
 
 Linie
 v případě nezakresleného náhonu v mapách je nutné zmapování jeho trasy.
-# Vodní pr. 
-# V07. plocha pro rozliv Vodní pr.
-![](../DCIM-examples/vodni_prvky-plocha_pro_rozliv.jpg)
+[V07. plocha pro rozliv Vodní pr. ] (# plocha_pro_rozliv)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-plocha_pro_rozliv.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 V dokumentaci též PřívalováBlesková povodeň rozliv
 
@@ -700,9 +901,14 @@ Na toku se nachází překážka - malokapacitní propustek, most, nahromadění
 
 Dokumentace
 Dokumentujeme místo, snesený a usazený materiál, příčinu rozlivu. Je nutné v rámci monitoringu definovat zdroj přívalovébleskové povodně.
-# Vodní pr. 
-# V08. poldr Vodní pr.
-![](../DCIM-examples/vodni_prvky-poldr.jpg)
+
+[V08. poldr Vodní pr. ] (# poldr)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-poldr.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie, polygon
@@ -712,9 +918,13 @@ Jde o suchou nebo občasně částečně zaplavenou uměle vytvořenou plochu pr
 
 Parametry 
 Linie: zaměřit linii hráze - hloubka (uložení výtokového zařízení), šířka v patě, šířka v koruně, výška, stav, zaplnění v procentech, do popisu uvést zanesení dna poldru
-# Vodní pr. 
-# V10. práh toku Vodní pr.
-![](../DCIM-examples/vodni_prvky-prah_toku.jpg)
+[V10. práh toku Vodní pr. ] (# prah_toku)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prah_toku.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prah_toku-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prah_toku-3.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prah_toku-4.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prah_toku-5.jpg" width="100px" />
+
 
 Vrstva
 bod
@@ -728,9 +938,14 @@ Nejčastěji se zhotovuje z dřevěné kulatiny, případně kamene. Vývar vody
 Dokumentace
 Parametry 
 Výška, materiál 
-# Vodní pr. 
-# V11. pramen Vodní pr.
-![](../DCIM-examples/vodni_prvky-pramen.jpg)
+
+[V11. pramen Vodní pr. ] (# pramen)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-pramen.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod
@@ -746,9 +961,13 @@ Dokumentace
 Dokumentujeme charakter pramene a okolní krajiny.
 Parametry 
 Vodnatost, do popisu o jaký typ se jedná (vývěr, prosak)
-# Vodní pr. 
-# V12. prameniště Vodní pr.
-![](../DCIM-examples/vodni_prvky-prameniste.jpg)
+[V12. prameniště Vodní pr. ] (# prameniste)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prameniste.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, polygon
@@ -762,9 +981,13 @@ Dokumentace
 Fotíme charakter prameniště a jeho okolí.
 Parametry 
 Vodnatost, do vrstvy bod jeho šířku a délku
-# Vodní pr. 
-# V13. přehrážka Vodní pr.
-![](../DCIM-examples/vodni_prvky-prehrazka.jpg)
+[V13. přehrážka Vodní pr. ] (# prehrazka)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prehrazka.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prehrazka-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prehrazka-3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -779,9 +1002,13 @@ Dokumentace
 Stav, usazení v toku, nátokovou stravu a stranu vývařiště a celkový pohled s charakterem okolní krajiny a vodního toku.
 Parametry 
 Výška, šířka v patě, šířka v koruně, materiál, zaplnění v %, materiál, stav, vodnatost
-# Vodní pr. 
-# V14. přehrážka v příkopu Vodní pr.
-![](../DCIM-examples/vodni_prvky-prehrazka_v_prikopu.jpg)
+[V14. přehrážka v příkopu Vodní pr. ] (# prehrazka_v_prikopu)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-prehrazka_v_prikopu.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
 
 Vrstva
 bod, linie
@@ -793,3 +1020,256 @@ Dokumentace
 Stav, usazení v toku, nátokovou stravu a stranu vývařiště a celkový pohled s charakterem okolní krajiny a vodního toku.
 Parametry 
 Výška, šířka v patě, šířka v koruně, materiál, zaplnění v %, materiál, stav, vodnatost
+[V15. skalní stupeň Vodní pr. ] (# skalni_stupen)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-skalni_stupen.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[V16. skalní úsek koryta Vodní pr. ] (# skalni_usek_koryta)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-skalni_usek_koryta.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[V17. soutok Vodní pr. ] (# soutok)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-soutok.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod
+
+Charakteristika
+Jde o místo, kde se setkávají dva (a více) vodní toky. Pro naše potřeby se může jednat i o soutok vodního toku a vedlejšího vodního díla, např. odvodňovacího kanálu, náhonu, vedlejšího koryta apod.
+
+Dokumentace
+Dokumentujeme místo soutoku. Na fotografii zachycujeme charakter soutoku, barvu vody, celkový charakter krajiny, tvar koryta.
+[V18. spádový stupeň Vodní pr. ] (# spadovy_stupen)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-spadovy_stupen.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-spadovy_stupen-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod
+
+Charakteristika
+Nejčastěji se zhotovuje z lomového kameniva a jde o nejčastější stabilizační prvek na toku. Narovnané toky na rozdíl od meandrujících překonávají stejný výškový rozdíl na mnohem kratší vzdálenosti a jejich větší podélný sklon zrychluje vodu v korytě a zvyšuje erozní účinnost vody. Pomocí spádových stupňů se tento podélný sklon snižuje. Nejčastěji je jeho výška 0,5 - 1,5 m. Pod stupněm v místě dopadu vody se musí vybudovat vývar, aby nedocházelo k podemílání základu stupně. 
+Migrační průchodnost pro živočichy je velmi špatná až žádná.
+
+Dokumentace
+Parametry 
+Materiál, šířka v koruně, šířka v patě, stav, vodnatost
+[V19. svejl Vodní pr. ] (# svejl)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-svejl.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod, linie
+
+Charakteristika
+Nejčastěji po vrstevnici vedený příkop pro zachytávání a zasakování dešťové vody v místě nebo slouží ke zpomalení odtoku a to formou rozvádění vody po pozemku. Svejly by měly mít i přelivová místa, tj. v případě, že se zcela naplní, tak voda by měla v určitých místech mít možnost přelivu aniž by plošně přetékala po celé délce spodní části, jinak hrozí riziko 
+
+Dokumentace
+Dokumentujeme příčný tvar svejlu, pohled na okolní krajinu. 
+
+Parametry 
+Hloubka, šířka v koruně, šířka v patě, vodnatost
+[V20. tok domapovaný Vodní pr. ] (# tok_domapovany)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-tok_domapovany.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-tok_domapovany-Foto_2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-tok_domapovany-Foto_3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod, linie
+
+Charakteristika -- Bod
+zaznamenáváme charakter vodního toku, ideálně průběžně po cca 200 m, první foto proti směru toku, druhé foto po směru toku.
+
+Charakteristika -- Linie
+zaznamenáváme linii toku neznačeného v mapách. Často se jedná o prodloužení toku až k prameništi nebo pramenu.
+
+Dokumentace
+Zaznamenáváme celkovým pohledem charakter koryta nejprve proti proudu a pak po proudu. Ideální je foto zaznamenané z koryta. Tak je zřejmé tvar a zahloubení i materiál dna. 
+Parametry     
+Vodnatost, Hloubka (výška hladiny vody ode dna), šířka v patě (šířka dna), šířka v koruně (horní šířka koryta).
+[V21. tůň Vodní pr. ] (# tun)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-tun.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-tun-2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-tun-Foto_3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod, polygon
+
+Charakteristika
+Jde o terénní prohlubeň naplněnou vodou dešťovou, průsakem případě, že se nachází v nivě toku, tak napuštěná při vyšším průtoku a v nivě může být spojená s tokem (průtočná) nebo mimo tok (obtočná), mohou vznikat mechanicky, po vývratech nebo odstavením meandru. 
+Mimo nivu se jedná o tůně vzniklé na prameni, nejčastěji vyhloubené i díky zvěři, staré zatopené větší či menší lomy
+
+Dokumentace
+Celkový pohled s charakterem krajiny.
+
+Parametry: 
+    Šířka – šířka tůně nebo její průměr v metrech
+
+Popis
+Lze uvést vyskytující se faunu a floru.
+    Výška  – délka tůně v metrech
+    Hloubka – hloubka hladiny vody v metrech
+
+[V22. vedlejší koryto Vodní pr. ] (# vedlejsi_koryto)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-vedlejsi_koryto.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod, linie
+
+Charakteristika
+V podstatě se jedná o vedlejší rameno. Vyskytuje se v místech, kde vodní tok meandruje a tak se koryta pozvolně stěhují. 
+Také se u potoků může jednat o původní koryto, kudy potok tekl (meandroval), ale při úpravách bylo koryto odstaveno a ponecháno vlastnímu osudu. Takto zachovaná koryta a meandry často najdeme v lesích, kde sice byl tok napřímen, ale nedošlo k jeho zasypání narozdíl od polních tratí, kde se tyto koryta srovnala a plochy začlenily do půdních bloků.
+
+Dokumentace
+Dokumentujeme stav koryta, charakter okolní krajiny a pozici vůči stávajícímu toku. 
+
+Parametry 
+Vodnatost, šířka, hloubka
+Do popisu lze uvést, zda se v něm vyskytuje voda, může se v něm objevit i tůň. Zda v něm někdy proudí voda, což lze odvodit z charakteru dna.
+[V23. vývraty v korytě Vodní pr. ] (# vyvraty_v_koryte)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-vyvraty_v_koryte.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod
+
+Charakteristika
+Vývraty stromů v korytě vodního toku. Jeden z prvků renaturalizace, vznikají klidná místa, což je obzvláště u kanalizovaných vodotečí významný prvek pro podpoření biodiverzity. 
+
+Dokumentace
+Dokumentujeme charakter vývratu i s charakterem vodoteče.
+
+[V24. zamokřená plocha Vodní pr. ] (# zamokrena_plocha)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-zamokrena_plocha.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-zamokrena_plocha-Foto_2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-zamokrena_plocha-Foto_3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva: bod nebo polygon
+Druh: Zamokřená plocha
+
+Foto: do dáli, aby byl vidět charakter okolní krajiny
+
+Parametry: 
+    Hloubka
+    Šířka
+    Výška
+
+[C09. Cesta zapuštěná / úvoz ] (# cesta_uvoz)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_uvoz.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_uvoz-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod, linie
+
+Charakteristika
+Použijeme v případě, že cesta je snížená oproti původnímu terénu. Často se s tím setkáme u dlouhodobě používaných cest (zpravidla desetiletí) vedených po spádnici. Také se lidově označuje jako úvoz nebo úvozová cesta.
+Také zde dokumentujeme cesty zapuštěné v terénu tedy ve svahu, kde došlo k velké terénní úpravě. Často se ale zde můžeme setkat s prýštěním vody hlavně ve vlhčích obdobích. Jakkoliv zapuštěná cesta funguje jako odvodňovací kanál, protože snížením terénu se naruší kapiláry a hlavně na vnitřní straně se dostáváme hluboko do podloží. Např. studánka Solárka pod Ondřejníkem
+Mapujeme na lesních cestách, polních cestách atd.
+
+Dokumentace
+Zachycujeme cestu a charakter okolní krajiny. Ideálně fotíme v podřepu, tak vynikne míra snížení a charakter zahloubení vůči terénu.
+
+Parametry
+Uvádí se hloubka zapuštění, zde stačí jen orientačně.
+
+[C08. Cesta s erozí ] (# cesta_eroze)
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_eroze.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/cesty_apod-cesta_eroze-2.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+Vrstva
+bod, linie
+
+Bod
+Použijeme v případě, že chceme zachytit bodově charakter eroze na cestě. Nevkládáme do linie jestliže eroze je buď zjevná v celé délce cesty čili tvoří charakter cesty nebo se zjevná eroze vyskytla jen v konkrétním místě.
+
+Linie:
+Použijeme v případě, že eroze se táhne po delší úsek a je vhodné zaznamenat počátek a konec.
+
+Mapujeme na lesních cestách, polních cestách atd.
+
+Dokumentace
+Zachycujeme cestu a charakter okolní krajiny. Ideálně foto do kopce a následně z kopce
+
+Parametry
+Konktretizujeme hloubku eroze, míru eroze a podklad cesty.
+Z jakého je cesta materiálu, charakter podloží které bylo vyerodováno, zda eroze vede kolejí a kterou, případně se může jednat o erozi na vnitřní straně např. jedná-li se o zapuštěnou cestu ve svahu.
+
+Komentář 
+    nezpevněná
+    zpevněná - štěrk (jemnější frakce), makadam (hrubší frakce), asfaltová (nová, rozpadající se atd.), kolejová (nová, rozpadající se)
+    erodovaný zpevněný povrch, vyerodováno na podloží 
+[V25. domapovaný rybník Vodní pr. ] (# rybnik_mapovany)
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-zamokrena_plocha.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-zamokrena_plocha-Foto_2.jpg" width="100px" />
+<img src="../DCIM-examples/DCIM-examples/vodni_prvky-zamokrena_plocha-Foto_3.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[J11. bezlesí Jiné ] (# bezlesi_mapovane)
+<img src="../DCIM-examples/DCIM-examples/ostatni-zed.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
+[J12. holina Jiné ] (# holina_mapovana)
+<img src="../DCIM-examples/DCIM-examples/ostatni-zed.jpg" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+<img src="../DCIM-examples/" width="100px" />
+
+
+
