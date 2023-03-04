@@ -5,7 +5,7 @@ SQL ▼
 
 # Cesty 
 # C01. brod Cesty
-![../DCIM-examples/eroze-eroze_struzkova-2.jpg](../DCIM-examples/eroze-eroze_struzkova-2.jpg)
+<img src="../DCIM-examples/eroze-eroze_struzkova-2.jpg" width="100px" />
 
 Vrstva: bod
 Druh: Brod
